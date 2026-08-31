@@ -11,14 +11,6 @@
 
 ---
 
-### 💼 Currently
-- 🔭 Working as **Front-End AI Engineer** at **FlyRank AI**, integrating LLM-driven features into production frontends
-- 🧠 Building **MemoriaOS** — a personal knowledge system with semantic/hybrid search and local embeddings
-- 🎯 Building **VoiceSheild** — a real-time emotion detection system using facial + voice pattern analysis
-- 📚 Actively solving DSA on LeetCode (200+ problems solved)
-
----
-
 ### 📊 My Stats & Activity
 
 <div align="center">
